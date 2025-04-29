@@ -56,9 +56,6 @@ The confusion matrix and ROC curve demonstrate reliable performance across all t
 
 ## Contributors
 
-- Kothoju Navyeesh ([GitHub](https://github.com/navyeesh))
-- Kanakala Hinduja
-- Jani Anbarasi L
-- Nagavarapu Divya Charitha
-- Pasala Sri Varshitha
-- Uppuluri Venkata Sai Varshitha
+- Bavana Durga Praneeth
+- Challa Anudeep Reddy
+- BSR Siddhardha
